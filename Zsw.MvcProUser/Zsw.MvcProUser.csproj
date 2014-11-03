@@ -310,7 +310,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Zsw.Helper.Util\Zsw.Helper.Util.csproj">
-      <Project>{52290d1b-b621-4b75-9c68-5f284be65ffa}</Project>
+      <Project>{c6271d30-23c8-465f-9600-ba618470956b}</Project>
       <Name>Zsw.Helper.Util</Name>
     </ProjectReference>
   </ItemGroup>
