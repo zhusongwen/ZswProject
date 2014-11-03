@@ -1,0 +1,11 @@
+D:\myProject\Zsw.Common.Util\Zsw.Test\bin\Debug\Zsw.Test.exe.config
+D:\myProject\Zsw.Common.Util\Zsw.Test\bin\Debug\Zsw.Test.exe
+D:\myProject\Zsw.Common.Util\Zsw.Test\bin\Debug\Zsw.Test.pdb
+D:\myProject\Zsw.Common.Util\Zsw.Test\obj\Debug\Zsw.Test.csprojResolveAssemblyReference.cache
+D:\myProject\Zsw.Common.Util\Zsw.Test\obj\Debug\Zsw.Test.exe
+D:\myProject\Zsw.Common.Util\Zsw.Test\obj\Debug\Zsw.Test.pdb
+D:\myProject\Zsw.Common.Util\Zsw.Test\bin\Debug\Zsw.Common.Util.dll
+D:\myProject\Zsw.Common.Util\Zsw.Test\bin\Debug\Zsw.Common.Util.pdb
+D:\myProject\ZswProject\Zsw.Test\bin\Debug\Zsw.Test.exe.config
+D:\myProject\ZswProject\Zsw.Test\obj\Debug\Zsw.Test.exe
+D:\myProject\ZswProject\Zsw.Test\obj\Debug\Zsw.Test.pdb
